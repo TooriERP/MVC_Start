@@ -23,16 +23,16 @@ namespace MVC_Start.Controllers
     {
       GuestContact contact = new GuestContact();
 
-      contact.Name = "Manish Agrawal";
-      contact.Email = "magrawal@usf.edu";
+      contact.Name = "Uday Ivaturi";
+      contact.Email = "uivaturi@usf.edu";
       contact.Phone = "813-974-6716";
 
       
       /* alternate syntax to initialize object 
       GuestContact contact2 = new GuestContact
       {
-        Name = "Manish Agrawal",
-        Email = "magrawal@usf.edu",
+        Name = "Uday Ivaturi",
+        Email = "uivaturi@usf.edu",
         Phone = "813-974-6716"
       };
       */
